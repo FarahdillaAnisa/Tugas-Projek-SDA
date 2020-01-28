@@ -1,0 +1,3 @@
+strukturdata.antrian_bank.dialog.DialogManageCS$1
+strukturdata.antrian_bank.dialog.DialogManageCS$2
+strukturdata.antrian_bank.dialog.DialogManageCS

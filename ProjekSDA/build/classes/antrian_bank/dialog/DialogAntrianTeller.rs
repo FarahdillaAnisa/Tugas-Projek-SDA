@@ -1,0 +1,3 @@
+strukturdata.antrian_bank.dialog.DialogAntrianTeller
+strukturdata.antrian_bank.dialog.DialogAntrianTeller$2
+strukturdata.antrian_bank.dialog.DialogAntrianTeller$1

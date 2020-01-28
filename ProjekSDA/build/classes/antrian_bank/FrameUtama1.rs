@@ -1,0 +1,2 @@
+strukturdata.antrian_bank.FrameUtama1
+strukturdata.antrian_bank.FrameUtama1$1
